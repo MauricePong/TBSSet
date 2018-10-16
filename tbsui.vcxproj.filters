@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="appinit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="iconhelper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="tbsbase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="tbshardware.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="tbsui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include=".\tbsset_plugin_import.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="appinit.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="iconhelper.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <ClInclude Include="tbsbase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <QtMoc Include="tbshardware.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="tbsui.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="temp\moc\moc_predefs.h.cbt">
+      <Filter>Generated Files</Filter>
+    </CustomBuild>
+    <ClInclude Include="temp\ui\ui_tbsui.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <QtUic Include="tbsui.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="qss\psblack\uilogo\Checkbox">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="qss\psblack\uilogo\Check">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="qss\psblack\uilogo\Invalid">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="qss\psblack\uilogo\Radio">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="qss\psblack\uilogo\Slider">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="qss\psblack\uilogo\Textfield">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="qss\psblack\uilogo\Valid">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="qss\psblack\uilogo\XX.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="qss\psblack\add_bottom.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="qss\psblack\add_left.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="qss\psblack\add_right.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="qss\psblack\add_top.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="bg.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="qss\psblack\branch_close.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="qss\psblack\branch_open.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="qss\psblack\calendar_nextmonth.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="qss\psblack\calendar_prevmonth.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="qss\psblack\ch.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="qss\psblack\checkbox_checked.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="qss\psblack\checkbox_checked_disable.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="qss\psblack\checkbox_parcial.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="qss\psblack\checkbox_parcial_disable.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="qss\psblack\checkbox_unchecked.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="qss\psblack\checkbox_unchecked_disable.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="qss\psblack\chun.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\connect.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="qss\psblack\uilogo\dian.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\disconnect.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\file.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="qss\psblack\fileopen.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="fill.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\fontawesome-webfont.ttf">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\logo.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="qss\psblack\uilogo\logo.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <QtRcc Include="main.qrc">
+      <Filter>Resource Files</Filter>
+    </QtRcc>
+    <None Include="image\main_about.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\main_company.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\main_config.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\main_data.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\main_exit.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\main_help.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\main_main.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\main_person.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="mark.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\pci.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="qss\psblack.css">
+      <Filter>Resource Files</Filter>
+    </None>
+    <QtRcc Include="qss.qrc">
+      <Filter>Resource Files</Filter>
+    </QtRcc>
+    <None Include="qss\psblack\radiobutton_checked.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="qss\psblack\radiobutton_checked_disable.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="qss\psblack\radiobutton_unchecked.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="qss\psblack\radiobutton_unchecked_disable.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\tbs.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="tbsui.rc" />
+  </ItemGroup>
+</Project>

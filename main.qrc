@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/fontawesome-webfont.ttf</file>
+        <file>image/main_about.png</file>
+        <file>image/main_company.png</file>
+        <file>image/main_config.png</file>
+        <file>image/main_data.png</file>
+        <file>image/main_exit.png</file>
+        <file>image/main_help.png</file>
+        <file>image/main_main.png</file>
+        <file>image/main_person.png</file>
+        <file>image/tbs.ico</file>
+        <file>image/file.png</file>
+        <file>image/logo.png</file>
+        <file>image/disconnect.png</file>
+        <file>image/connect.png</file>
+        <file>image/pci.png</file>
+        <file>qss/psblack/uilogo/Check mark.png</file>
+        <file>qss/psblack/uilogo/Checkbox bg.png</file>
+        <file>qss/psblack/uilogo/dian.png</file>
+        <file>qss/psblack/uilogo/Invalid bg.png</file>
+        <file>qss/psblack/uilogo/logo.png</file>
+        <file>qss/psblack/uilogo/Radio  mark.png</file>
+        <file>qss/psblack/uilogo/Radio bg.png</file>
+        <file>qss/psblack/uilogo/Slider bg.png</file>
+        <file>qss/psblack/uilogo/Slider fill.png</file>
+        <file>qss/psblack/uilogo/Textfield bg.png</file>
+        <file>qss/psblack/uilogo/Valid bg.png</file>
+        <file>qss/psblack/uilogo/XX.png</file>
+    </qresource>
+</RCC>
